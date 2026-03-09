@@ -36,3 +36,7 @@ docs/
 temp/
 
 *.db
+.ai-atlas
+.ai-atlas/
+memory.md
+AGENTS.md
