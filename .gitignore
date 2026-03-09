@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+.python-version
+uv.lock
+
+# Virtual environments
+.venv
+.env
+.env.local
+venv/
+
+# Models
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Cursor files
+.cursorignore
+.cursorindexingignore
+.cursor/
+
+# OS
+.DS_Store
+
+# Internal
+tasks/
+temp_commands.sh
+synthesis/
+plans/
+docs/
+temp/
+
+*.db
